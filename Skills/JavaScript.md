@@ -84,21 +84,29 @@
   - default parameters 🖐 used
   - functional object 🖐 used
 - Data structures
-  - Array 🖐 used
-  - mixin 👂 heard
-  - extend 👂 heard
-  - typed arrays 🖐 used
-  - Map 🖐 used
-  - Set 🖐 used
-  - undefined 🖐 used
-  - null 🖐 used
-  - Proxy 👂 heard
-  - weak collections 👂 heard
-  - timers 🖐 used
-  - EventEmitter 👂 heard
-  - RegExp 👂 heard
-  - Date 👂 heard
-  - BigInt  🎓 known
+  - `Array`🖐 used
+  - `Map`🖐 used
+  - `Set`🖐 used
+  - `WeakMap`👂 heard
+  - `WeakSet`👂 heard
+  - Typed arrays 👂 heard
+  - Mixins 👂 heard
+  - `Object.assign` 👂 heard
+- Standard classes and namespaces
+  - `Proxy` 👂 heard
+  - `RegExp`
+  - `Date`
+  - `Math`🖐 used
+  - `Reflect`
+  - `Error`🖐 used
+  - `Atomics`
+  - `JSON`🖐 used
+  - `WeakRef`
+  - `FinalizationRegistry`
+  - `Intl`
+  - `Promise`🖐 used
+  - `console`🖐 used
+  - Timers 🖐 used
 - Infrastructure
   - V8 🎓 known
   - Node.js 👂 heard
