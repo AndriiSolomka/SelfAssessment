@@ -3,23 +3,23 @@
 - Language
   - `Object` 🖐 used
   - `Function` 🖐 used
-  - `Boolean`
+  - `Boolean` 🖐 used
   - `Number` 🖐 used
   - `BigInt` 🎓 known
   - `String`  🖐 used
-  - `Symbol` 🎓 known
-  - `Infinity` 🎓 known
-  - `NaN` 🎓 known
-  - `undefined` 🎓 known
+  - `Symbol` 🖐 used
+  - `Infinity` 🖐 used
+  - `NaN` 🖐 used
+  - `undefined` 🖐 used
   - `null` 🖐 used
   - `this` 🖐 used
-  - `instanceof`
-  - `...spread`
-  - `...rest`
+  - `instanceof` 🖐 used
+  - `...spread` 🖐 used
+  - `...rest` 🖐 used
   - `typeof` 🖐 used
-  - Destructuring 👂 heard
+  - Destructuring 🖐 used
   - Generators 👂 heard
-  - Iterators  👂 heard
+  - Iterators  🖐 used
   - Async generator 👂 heard
   - Async iterator 👂 heard
   - Chaining 
@@ -28,10 +28,10 @@
   - Async IIFE 
   - `global`
   - `globalThis`
-  - `window`
-  - Getters and setters
-  - `__proto__`
-  - `prototype`
+  - `window` 🖐 used
+  - Getters and setters 👂 heard
+  - `__proto__` 🖐 used
+  - `prototype` 🖐 used
   - Equality operators 🖐 used
   - Logical operators 🖐 used
   - Logical Assignment 🖐 used
@@ -39,25 +39,25 @@
   - Ternary operator 🖐 used
   - `void`
   - `yield`
-  - `await`
+  - `await` 🖐 used
   - Template literal 🖐 used
   - Strict mode 🖐 used
   - Hoisting
   - `delete` 🖐 used
   - `in` 🖐 used
-  - `super`
-  - `eval`
-  - `static`
+  - `super` 🖐 used
+  - `eval` 🖐 used
+  - `static` 🖐 used
   - `Number.parseInt` 🖐 used
   - `Number.parseFloat` 🖐 used
   - Property descriptors  
   - Sealing properties
   - Freezing properties
   - Computed properties
-  - Instance class fields 👂 heard
-  - Static class fields 👂 heard
-  - Private class fields 👂 heard
-  - Private class methods 👂 heard
+  - Instance class fields 🖐 used
+  - Static class fields 🖐 used
+  - Private class fields 🖐 used
+  - Private class methods 🖐 used
 - Statements
   - if 🖐 used
   - while 🖐 used
@@ -66,16 +66,16 @@
   - for..in 🖐 used
   - for..of 🖐 used
   - for await 👂 heard
-  - throw 👂 heard
+  - throw 🖐 used
   - break 🖐 used
   - continue 🖐 used
-  - import 👂 heard
-  - export 👂 heard
+  - import 🖐 used
+  - export 🖐 used
   - label 👂 heard
-  - try..catch 👂 heard
+  - try..catch 🖐 used
   - switch 🖐 used
   - class 🖐 used
-  - new Error 👂 heard
+  - new Error 🖐 used
   - with 👂 heard
 - Functions
   - function declaration 🖐 used

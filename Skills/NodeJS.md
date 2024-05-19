@@ -12,13 +12,13 @@
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
   - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
+  - ECMAScript modules 
+  - Module `node:module` 
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
   - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Files `package.json`, `package-lock.json` 🖐 used
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -65,25 +65,25 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API 🖐 used
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
+  - HTTP(S) 👂 heard
+  - TCP/SSL 👂 heard
+  - UDP 👂 heard
+  - TLS 👂 heard
+  - Websocket 👂 heard
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
   - REST
   - RPC
-  - Routing
-  - DoS
-  - DDoS
+  - Routing 👂 heard
+  - DoS 
+  - DDoS 👂 heard
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS 👂 heard
   - SQL injection
   - noDelay
   - keep-alive
@@ -110,10 +110,10 @@
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error`
+  - `Error` 🖐 used
   - `error.cause`
   - `error.code`
-  - `error.message`
+  - `error.message` 🖐 used
   - `error.stack`
   - `Error.captureStackTrace`
   - How to avoid mixins
