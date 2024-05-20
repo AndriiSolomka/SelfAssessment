@@ -15,7 +15,7 @@
   - Contract
   - Module: 🖐️ used
   - Library: 🖐️ used
-  - Package: 
+  - Package
   - Component
   - Framework
   - Platform

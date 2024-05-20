@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-231&nbsp;/&nbsp;434&nbsp;/&nbsp;724-009933?style=flat-square)](https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-230&nbsp;/&nbsp;434&nbsp;/&nbsp;724-009933?style=flat-square)](https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-231&nbsp;/&nbsp;434&nbsp;/&nbsp;724-009933?style=flat-square)](https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-230&nbsp;/&nbsp;434&nbsp;/&nbsp;724-009933?style=flat-square)](https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-231&nbsp;/&nbsp;434&nbsp;/&nbsp;724-009933?style=flat-square"></a>
+<a href="https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-230&nbsp;/&nbsp;434&nbsp;/&nbsp;724-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -15,7 +15,7 @@
 | Unit | Marked | Of |
 | ---- | ------ | -- |
 | [Programming](/Skills/Programming.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `20` | `30` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `19` | `30` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Syntax and concepts | `29` | `33` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Types | `7` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `15` | `23` |
