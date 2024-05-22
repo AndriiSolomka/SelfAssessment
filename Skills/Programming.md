@@ -8,7 +8,7 @@
   - Syntax: 🖐️ used
   - Semantics
   - Abstraction: 🖐️ used
-  - Paradigm:  👂 heard
+  - Paradigm: 👂 heard
   - Programm: 🖐️ used
   - Programming paradigm: 👂 heard
   - Programming language: 🖐️ used
@@ -39,9 +39,9 @@
   - Scalar: 🖐️ used
   - Literal: 🖐️ used
   - Expression: 🖐️ used
-  - Heap: 
+  - Heap
   - Function: 🖐️ used
-  - Procedure: 
+  - Procedure
   - Method: 🖐️ used
   - Class: 🖐️ used
   - Prototype: 🖐️ used
@@ -75,7 +75,7 @@
   - Static typing: 👂 heard
   - Dynamic typing: 👂 heard
   - Nominal typing
-  - Structural typing: 
+  - Structural typing
   - Explicit typing
   - Type inference
   - Covariance
@@ -133,7 +133,7 @@
   - YAML
 - Networking
   - DNS: 🖐️ used
-  - CDN: 
+  - CDN
   - CORS
   - IPv4: 🖐️ used
   - IPv6: 🖐️ used
@@ -149,7 +149,7 @@
   - Linter: 🖐️ used
   - Polyfill
   - Interpreter: 🖐️ used
-  - Linker: 
+  - Linker
   - Dynamic linking
   - Static linking
   - Runtime
@@ -229,7 +229,7 @@
   - IANA
   - IEEE
   - Base64
-  - ECMA 🖐️ used
+  - ECMA: 🖐️ used
   - ICANN
   - ISO
   - MIME

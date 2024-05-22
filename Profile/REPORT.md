@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-229&nbsp;/&nbsp;434&nbsp;/&nbsp;724-009933?style=flat-square)](https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-225&nbsp;/&nbsp;434&nbsp;/&nbsp;724-009933?style=flat-square)](https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-229&nbsp;/&nbsp;434&nbsp;/&nbsp;724-009933?style=flat-square)](https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-225&nbsp;/&nbsp;434&nbsp;/&nbsp;724-009933?style=flat-square)](https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-229&nbsp;/&nbsp;434&nbsp;/&nbsp;724-009933?style=flat-square"></a>
+<a href="https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-225&nbsp;/&nbsp;434&nbsp;/&nbsp;724-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -16,16 +16,16 @@
 | ---- | ------ | -- |
 | [Programming](/Skills/Programming.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `19` | `30` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Syntax and concepts | `29` | `33` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Types | `7` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Syntax and concepts | `27` | `33` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Types | `6` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `15` | `23` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `21` | `26` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Networking | `6` | `9` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `9` | `28` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Networking | `5` | `9` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `8` | `28` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `13` | `30` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Runtimes and virtual machines | `1` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `2` | `13` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Standards | `1` | `15` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Standards | `2` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Language | `45` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `18` | `18` |
