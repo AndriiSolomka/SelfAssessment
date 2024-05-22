@@ -30,8 +30,8 @@
   - `globalThis`: 🖐️ used
   - `window`: 🖐️ used
   - Getters and setters: 👂 heard
-  - `__proto__`: 🖐️ used
-  - `prototype`: 🖐️ used
+  - `__proto__`: 👂 heard
+  - `prototype`: 👂 heard
   - Equality operators: 🖐️ used
   - Logical operators: 🖐️ used
   - Logical Assignment: 🖐️ used
