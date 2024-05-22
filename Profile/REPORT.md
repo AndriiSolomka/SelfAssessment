@@ -67,38 +67,13 @@
 
 | To start asynchronous programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| `Object` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Function` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Boolean` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Number` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Symbol` | 🤷 unknown | ⟶  | 🎓 known |
-| `undefined` | 🤷 unknown | ⟶  | 🖐️ used |
-| `null` | 🤷 unknown | ⟶  | 🖐️ used |
-| `this` | 🤷 unknown | ⟶  | 🖐️ used |
-| `instanceof` | 🤷 unknown | ⟶  | 🖐️ used |
-| `...spread` | 🤷 unknown | ⟶  | 🖐️ used |
-| `...rest` | 🤷 unknown | ⟶  | 🖐️ used |
-| `typeof` | 🤷 unknown | ⟶  | 🖐️ used |
-| Destructuring | 🤷 unknown | ⟶  | 🖐️ used |
-| Iterators | 🤷 unknown | ⟶  | 👂 heard |
 | Chaining | 🤷 unknown | ⟶  | 👂 heard |
 | Optional chaining | 🤷 unknown | ⟶  | 👂 heard |
 | IIFE | 🤷 unknown | ⟶  | 👂 heard |
 | Async IIFE | 🤷 unknown | ⟶  | 👂 heard |
 | `global` | 🤷 unknown | ⟶  | 🎓 known |
 | `globalThis` | 🤷 unknown | ⟶  | 👂 heard |
-| `prototype` | 🤷 unknown | ⟶  | 👂 heard |
-| Equality operators | 🤷 unknown | ⟶  | 🖐️ used |
-| Logical operators | 🤷 unknown | ⟶  | 🖐️ used |
-| Ternary operator | 🤷 unknown | ⟶  | 🖐️ used |
 | `yield` | 🤷 unknown | ⟶  | 👂 heard |
-| `await` | 🤷 unknown | ⟶  | 👂 heard |
-| Template literal | 🤷 unknown | ⟶  | 🖐️ used |
-| Strict mode | 🤷 unknown | ⟶  | 🖐️ used |
-| `super` | 🤷 unknown | ⟶  | 🖐️ used |
-| `static` | 🤷 unknown | ⟶  | 👂 heard |
-| Private class fields | 🤷 unknown | ⟶  | 🎓 known |
-| Private class methods | 🤷 unknown | ⟶  | 🎓 known |
 | `if` | 🤷 unknown | ⟶  | 🖐️ used |
 | `while` | 🤷 unknown | ⟶  | 🖐️ used |
 | `do..while` | 🤷 unknown | ⟶  | 🎓 known |
@@ -135,29 +110,12 @@
 | Timers | 🤷 unknown | ⟶  | 🖐️ used |
 | prettier | 🤷 unknown | ⟶  | 🎓 known |
 
-Total: you have `5` of `72` skills, `67` to be upgraded, and `1` above needed
+Total: you have `30` of `72` skills, `42` to be upgraded, and `8` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| `Object` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Function` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Boolean` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Number` | 🤷 unknown | ⟶  | 🖐️ used |
 | `BigInt` | 🎓 known | ⟶  | 🖐️ used |
-| `String` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Symbol` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Infinity` | 🤷 unknown | ⟶  | 🖐️ used |
-| `NaN` | 🤷 unknown | ⟶  | 🖐️ used |
-| `undefined` | 🤷 unknown | ⟶  | 🖐️ used |
-| `null` | 🤷 unknown | ⟶  | 🖐️ used |
-| `this` | 🤷 unknown | ⟶  | 🖐️ used |
-| `instanceof` | 🤷 unknown | ⟶  | 🖐️ used |
-| `...spread` | 🤷 unknown | ⟶  | 🖐️ used |
-| `...rest` | 🤷 unknown | ⟶  | 🖐️ used |
-| `typeof` | 🤷 unknown | ⟶  | 🖐️ used |
-| Destructuring | 🤷 unknown | ⟶  | 🖐️ used |
 | Generators | 👂 heard | ⟶  | 🖐️ used |
-| Iterators | 🤷 unknown | ⟶  | 🖐️ used |
 | Async generator | 👂 heard | ⟶  | 🖐️ used |
 | Async iterator | 👂 heard | ⟶  | 🖐️ used |
 | Chaining | 🤷 unknown | ⟶  | 🖐️ used |
@@ -166,29 +124,12 @@ Total: you have `5` of `72` skills, `67` to be upgraded, and `1` above needed
 | `global` | 🤷 unknown | ⟶  | 🖐️ used |
 | `globalThis` | 🤷 unknown | ⟶  | 🖐️ used |
 | Getters and setters | 👂 heard | ⟶  | 🖐️ used |
-| Equality operators | 🤷 unknown | ⟶  | 🖐️ used |
-| Logical operators | 🤷 unknown | ⟶  | 🖐️ used |
-| Ternary operator | 🤷 unknown | ⟶  | 🖐️ used |
 | `void` | 🤷 unknown | ⟶  | 🖐️ used |
 | `yield` | 🤷 unknown | ⟶  | 🖐️ used |
-| `await` | 🤷 unknown | ⟶  | 🖐️ used |
-| Template literal | 🤷 unknown | ⟶  | 🖐️ used |
-| Strict mode | 🤷 unknown | ⟶  | 🖐️ used |
-| `delete` | 🤷 unknown | ⟶  | 🖐️ used |
-| `in` | 🤷 unknown | ⟶  | 👂 heard |
-| `super` | 🤷 unknown | ⟶  | 🖐️ used |
-| `eval` | 🤷 unknown | ⟶  | 🎓 known |
-| `static` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Number.parseInt` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Number.parseFloat` | 🤷 unknown | ⟶  | 🖐️ used |
 | Property descriptors | 🤷 unknown | ⟶  | 🎓 known |
 | Sealing properties | 🤷 unknown | ⟶  | 🎓 known |
 | Freezing properties | 🤷 unknown | ⟶  | 🎓 known |
 | Computed properties | 🤷 unknown | ⟶  | 🎓 known |
-| Instance class fields | 🤷 unknown | ⟶  | 🎓 known |
-| Static class fields | 🤷 unknown | ⟶  | 🎓 known |
-| Private class fields | 🤷 unknown | ⟶  | 🎓 known |
-| Private class methods | 🤷 unknown | ⟶  | 🎓 known |
 | `if` | 🤷 unknown | ⟶  | 🖐️ used |
 | `while` | 🤷 unknown | ⟶  | 🖐️ used |
 | `do..while` | 🤷 unknown | ⟶  | 🖐️ used |
@@ -236,7 +177,7 @@ Total: you have `5` of `72` skills, `67` to be upgraded, and `1` above needed
 | npm | 👂 heard | ⟶  | 🎓 known |
 | prettier | 🤷 unknown | ⟶  | 🎓 known |
 
-Total: you have `2` of `98` skills, `96` to be upgraded, and `0` above needed
+Total: you have `36` of `98` skills, `62` to be upgraded, and `6` above needed
 
 ## [Async](/Skills/Async.md)
 

@@ -1,25 +1,25 @@
 ## JavaScript
 
 - Language
-  - `Object` 🖐️ used
-  - `Function`  🖐️ used
-  - `Boolean`  🖐️ used
-  - `Number`  🖐️ used
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
   - `BigInt`: 🎓 known
-  - `String`   🖐️ used
-  - `Symbol`  🖐️ used
-  - `Infinity`  🖐️ used
-  - `NaN`  🖐️ used
-  - `undefined`  🖐️ used
-  - `null`  🖐️ used
-  - `this`  🖐️ used
-  - `instanceof`  🖐️ used
-  - `...spread`  🖐️ used
-  - `...rest`  🖐️ used
-  - `typeof` 🖐️ used
-  - Destructuring  🖐️ used
+  - `String`: 🖐️ used
+  - `Symbol`: 🖐️ used
+  - `Infinity`: 🖐️ used
+  - `NaN`: 🖐️ used
+  - `undefined`: 🖐️ used
+  - `null`: 🖐️ used
+  - `this`: 🖐️ used
+  - `instanceof`: 🖐️ used
+  - `...spread`: 🖐️ used
+  - `...rest`: 🖐️ used
+  - `typeof`: 🖐️ used
+  - Destructuring: 🖐️ used
   - Generators: 👂 heard
-  - Iterators   🖐️ used
+  - Iterators: 🖐️ used
   - Async generator: 👂 heard
   - Async iterator: 👂 heard
   - Chaining
@@ -28,41 +28,41 @@
   - Async IIFE
   - `global`
   - `globalThis`
-  - `window`  🖐️ used
+  - `window`: 🖐️ used
   - Getters and setters: 👂 heard
-  - `__proto__`  🖐️ used
-  - `prototype`  🖐️ used
-  - Equality operators  🖐️ used
-  - Logical operators  🖐️ used
-  - Logical Assignment  🖐️ used
-  - Bitwise operators  🖐️ used
-  - Ternary operator  🖐️ used
+  - `__proto__`: 🖐️ used
+  - `prototype`: 🖐️ used
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
+  - Logical Assignment: 🖐️ used
+  - Bitwise operators: 🖐️ used
+  - Ternary operator: 🖐️ used
   - `void`
   - `yield`
-  - `await`  🖐️ used
-  - Template literal  🖐️ used
-  - Strict mode  🖐️ used
+  - `await`: 🖐️ used
+  - Template literal: 🖐️ used
+  - Strict mode: 🖐️ used
   - Hoisting
-  - `delete`  🖐️ used
-  - `in`  🖐️ used
-  - `super`  🖐️ used
-  - `eval`  🖐️ used
-  - `static`  🖐️ used
-  - `Number.parseInt`  🖐️ used
-  - `Number.parseFloat`  🖐️ used
+  - `delete`: 🖐️ used
+  - `in`: 🖐️ used
+  - `super`: 🖐️ used
+  - `eval`: 🖐️ used
+  - `static`: 🖐️ used
+  - `Number.parseInt`: 🖐️ used
+  - `Number.parseFloat`: 🖐️ used
   - Property descriptors
   - Sealing properties
   - Freezing properties
   - Computed properties
-  - Instance class fields  🖐️ used
-  - Static class fields  🖐️ used
-  - Private class fields  🖐️ used
-  - Private class methods  🖐️ used
+  - Instance class fields: 🖐️ used
+  - Static class fields: 🖐️ used
+  - Private class fields: 🖐️ used
+  - Private class methods: 🖐️ used
 - Statements
-  - if  🖐️ used
-  - while  🖐️ used
-  - do..while  🖐️ used
-  - for  🖐️ used
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🖐️ used
   - for..in 🖐: 🖐️ used
   - for..of 🖐: 🖐️ used
   - for await: 👂 heard
