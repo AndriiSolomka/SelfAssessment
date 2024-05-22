@@ -8,9 +8,9 @@
   - Syntax: 🖐️ used
   - Semantics
   - Abstraction: 🖐️ used
-  - Paradigm: 🖐️ used
+  - Paradigm:  👂 heard
   - Programm: 🖐️ used
-  - Programming paradigm: 🖐️ used
+  - Programming paradigm: 👂 heard
   - Programming language: 🖐️ used
   - Contract
   - Module: 🖐️ used
@@ -39,12 +39,12 @@
   - Scalar: 🖐️ used
   - Literal: 🖐️ used
   - Expression: 🖐️ used
-  - Heap: 👂 heard
+  - Heap: 
   - Function: 🖐️ used
-  - Procedure: 👂 heard
+  - Procedure: 
   - Method: 🖐️ used
   - Class: 🖐️ used
-  - Prototype: 👂 heard
+  - Prototype: 🖐️ used
   - Event: 🖐️ used
   - Type: 🖐️ used
   - Flag: 🖐️ used
@@ -56,7 +56,7 @@
   - Regular expression: 🖐️ used
   - Interface: 👂 heard
   - Namespaces: 👂 heard
-  - Call stack: 👂 heard
+  - Call stack: 🎓 known
   - Naming conventions: 👂 heard
   - Coding conventions: 👂 heard
   - Camel case: 🖐️ used
@@ -69,13 +69,13 @@
   - Primitive types: 🖐️ used
   - Reference types: 🖐️ used
   - Type systems
-  - Strong typing: 👂 heard
+  - Strong typing: 🖐️ used
   - Weak typing: 🖐️ used
   - Duck typing
   - Static typing: 👂 heard
-  - Dynamic typing: 🖐️ used
+  - Dynamic typing: 👂 heard
   - Nominal typing
-  - Structural typing: 🖐️ used
+  - Structural typing: 
   - Explicit typing
   - Type inference
   - Covariance
@@ -87,10 +87,10 @@
   - Pure function: 🖐️ used
   - Lambda expression: 🖐️ used
   - Side effects: 👂 heard
-  - Closure: 👂 heard
+  - Closure: 🖐️ used
   - Partial application: 👂 heard
   - Currying: 👂 heard
-  - Higher order: 👂 heard
+  - Higher order: 🖐️ used
   - Recursion: 🖐️ used
   - Tail call optimisation
   - Callback: 🖐️ used
@@ -133,7 +133,7 @@
   - YAML
 - Networking
   - DNS: 🖐️ used
-  - CDN: 🖐️ used
+  - CDN: 
   - CORS
   - IPv4: 🖐️ used
   - IPv6: 🖐️ used
@@ -149,7 +149,7 @@
   - Linter: 🖐️ used
   - Polyfill
   - Interpreter: 🖐️ used
-  - Linker: 🖐️ used
+  - Linker: 
   - Dynamic linking
   - Static linking
   - Runtime
@@ -229,7 +229,7 @@
   - IANA
   - IEEE
   - Base64
-  - ECMA
+  - ECMA 🖐️ used
   - ICANN
   - ISO
   - MIME
