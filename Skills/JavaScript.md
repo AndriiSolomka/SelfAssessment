@@ -64,7 +64,7 @@
   - do..while: 🖐️ used
   - for: 🖐️ used
   - for..in 🖐: 🖐️ used
-  - for..of 🖐: 🖐️ used
+  - for..of 👂 heard
   - for await: 👂 heard
   - throw 🖐: 🖐️ used
   - break 🖐: 🖐️ used
