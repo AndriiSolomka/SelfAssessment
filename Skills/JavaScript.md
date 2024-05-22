@@ -27,7 +27,7 @@
   - IIFE
   - Async IIFE
   - `global`
-  - `globalThis` 
+  - `globalThis`
   - `window`: 🖐️ used
   - Getters and setters: 👂 heard
   - `__proto__`: 🖐️ used
@@ -42,7 +42,7 @@
   - `await`: 🖐️ used
   - Template literal: 🖐️ used
   - Strict mode: 🖐️ used
-  - Hoisting 🖐️ used
+  - Hoisting: 🖐️ used
   - `delete`: 🖐️ used
   - `in`: 🖐️ used
   - `super`: 🖐️ used
@@ -63,50 +63,50 @@
   - while: 🖐️ used
   - do..while: 🖐️ used
   - for: 🖐️ used
-  - for..in  🖐️ used
+  - for..in: 🖐️ used
   - for..of: 🖐️ used
   - for await: 👂 heard
-  - throw  🖐️ used
-  - break  🖐️ used
-  - continue  🖐️ used
-  - import  🖐️ used
-  - export 🖐️ used
+  - throw: 🖐️ used
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - import: 🖐️ used
+  - export: 🖐️ used
   - label: 👂 heard
-  - try..catch  🖐️ used
-  - switch 🖐️ used
-  - class  🖐️ used
-  - new Error  🖐️ used
+  - try..catch: 🖐️ used
+  - switch: 🖐️ used
+  - class: 🖐️ used
+  - new Error: 🖐️ used
   - with: 👂 heard
 - Functions
-  - function declaration  🖐️ used
-  - function expression  🖐️ used
-  - return  🖐️ used
-  - default parameters 🖐️ used
-  - functional object  🖐️ used
+  - function declaration: 🖐️ used
+  - function expression: 🖐️ used
+  - return: 🖐️ used
+  - default parameters: 🖐️ used
+  - functional object: 🖐️ used
 - Data structures
-  - `Array` 🖐️ used
-  - `Map` 🖐️ used
-  - `Set` 🖐️ used
+  - `Array`: 🖐️ used
+  - `Map`: 🖐️ used
+  - `Set`: 🖐️ used
   - `WeakMap`: 👂 heard
   - `WeakSet`: 👂 heard
   - Typed arrays: 👂 heard
-  - Mixins: 
+  - Mixins
   - `Object.assign`: 👂 heard
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
   - `Date`
-  - `Math` 🖐️ used
+  - `Math`: 🖐️ used
   - `Reflect`
-  - `Error` 🖐️ used
+  - `Error`: 🖐️ used
   - `Atomics`
-  - `JSON` 🖐️ used
+  - `JSON`: 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise` 🖐️ used
-  - `console` 🖐️ used
-  - Timers  🖐️ used
+  - `Promise`: 🖐️ used
+  - `console`: 🖐️ used
+  - Timers: 🖐️ used
 - Infrastructure
   - V8: 🎓 known
   - Node.js: 🖐️ used
