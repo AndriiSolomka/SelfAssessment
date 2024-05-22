@@ -111,5 +111,5 @@
   - V8: 🎓 known
   - Node.js: 🖐️ used
   - npm: 🖐️ used
-  - prettier  🖐️ used
-  - MDN  🖐️ used
+  - prettier: 🖐️ used
+  - MDN: 🖐️ used

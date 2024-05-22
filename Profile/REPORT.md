@@ -100,9 +100,8 @@
 | `Proxy` | 🤷 unknown | ⟶  | 🎓 known |
 | `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
-| prettier | 🤷 unknown | ⟶  | 🎓 known |
 
-Total: you have `38` of `72` skills, `34` to be upgraded, and `9` above needed
+Total: you have `39` of `72` skills, `33` to be upgraded, and `10` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -157,9 +156,8 @@ Total: you have `38` of `72` skills, `34` to be upgraded, and `9` above needed
 | `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
 | V8 | 🎓 known | ⟶  | 🖐️ used |
-| prettier | 🤷 unknown | ⟶  | 🎓 known |
 
-Total: you have `46` of `98` skills, `52` to be upgraded, and `9` above needed
+Total: you have `47` of `98` skills, `51` to be upgraded, and `10` above needed
 
 ## [Async](/Skills/Async.md)
 
