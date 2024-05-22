@@ -3,7 +3,7 @@
 - Language
   - `Object` 🖐 used
   - `Function` 🖐 used
-  - `Boolean`
+  - `Boolean` 🖐 used
   - `Number` 🖐 used
   - `BigInt` 🎓 known
   - `String`  🖐 used
