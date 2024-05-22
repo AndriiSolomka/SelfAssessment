@@ -27,7 +27,7 @@
   - IIFE
   - Async IIFE
   - `global`
-  - `globalThis` 🖐️ used
+  - `globalThis`: 🖐️ used
   - `window`: 🖐️ used
   - Getters and setters: 👂 heard
   - `__proto__`: 🖐️ used
