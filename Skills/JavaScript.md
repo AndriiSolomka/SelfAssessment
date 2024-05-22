@@ -37,8 +37,8 @@
   - Logical Assignment: 🖐️ used
   - Bitwise operators: 🖐️ used
   - Ternary operator: 🖐️ used
-  - `void`
-  - `yield`
+  - `void` 🖐️ used
+  - `yield` 👂 heard
   - `await`: 🖐️ used
   - Template literal: 🖐️ used
   - Strict mode: 🖐️ used
