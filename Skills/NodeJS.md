@@ -18,7 +18,7 @@
   - Modules as singletons
   - Contexts and scripts module `node:vm`
   - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json` 🖐: 🖐️ used
+  - Files `package.json`, `package-lock.json`  🖐️ used
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -65,9 +65,9 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API 🖐: 🖐️ used
+  - Fetch API  🖐️ used
   - IncomingMessage
-  - HTTP(S): 👂 heard
+  - HTTP(S): 🖐️ used
   - TCP/SSL: 👂 heard
   - UDP: 👂 heard
   - TLS: 👂 heard
@@ -77,7 +77,7 @@
   - Long polling
   - REST
   - RPC
-  - Routing: 👂 heard
+  - Routing: 🖐️ used
   - DoS
   - DDoS: 👂 heard
   - XSS
@@ -110,10 +110,10 @@
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error` 🖐: 🖐️ used
+  - `Error`  🖐️ used
   - `error.cause`
   - `error.code`
-  - `error.message` 🖐: 🖐️ used
+  - `error.message`  🖐️ used
   - `error.stack`
   - `Error.captureStackTrace`
   - How to avoid mixins
