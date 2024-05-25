@@ -110,7 +110,7 @@
   - Record 🖐 used
   - Enum 🖐 used
   - Instance 🖐 used
-  - Cbject🖐 used
+  - Object🖐 used
   - Collection 🖐 used
   - Set 🖐 used
   - Hash table 🖐 used

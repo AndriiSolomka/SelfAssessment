@@ -59,30 +59,36 @@
   - Private class fields 👂 heard
   - Private class methods 👂 heard
 - Statements
-  - if 🖐 used
-  - while 🖐 used
-  - do..while 🖐 used
-  - for 🖐 used
-  - for..in 🖐 used
-  - for..of 🖐 used
-  - for await 👂 heard
-  - throw 👂 heard
-  - break 🖐 used
-  - continue 🖐 used
-  - import 👂 heard
-  - export 👂 heard
-  - label 👂 heard
-  - try..catch 👂 heard
-  - switch 🖐 used
-  - class 🖐 used
-  - new Error 👂 heard
-  - with 👂 heard
+  - `if` 🖐 used
+  - `while` 🖐 used
+  - `do..while` 🖐 used
+  - `for` 🖐 used
+  - `for..in` 🖐 used
+  - `for..of` 🖐 used
+  - `for await` 👂 heard
+  - `throw` 👂 heard
+  - `break` 🖐 used
+  - `continue` 🖐 used
+  - `import` 👂 heard
+  - `export` 👂 heard
+  - `label` 👂 heard
+  - `try..catch` 👂 heard
+  - `switch` 🖐 used
+  - `class` 🖐 used
+  - `extends`
+  - `with` 👂 heard
+  - `new`
 - Functions
-  - function declaration 🖐 used
-  - function expression 🖐 used
-  - return 🖐 used
-  - default parameters 🖐 used
-  - functional object 🖐 used
+  - Arrow function
+  - Async function
+  - Function declaration 🖐 used
+  - Function expression 🖐 used
+  - Default parameters 🖐 used
+  - Functional object 🖐 used
+  - `Function.prototype.call`
+  - `Function.prototype.bind`
+  - `Function.prototype.apply`
+  - `return`
 - Data structures
   - `Array`🖐 used
   - `Map`🖐 used
@@ -113,3 +119,4 @@
   - npm 👂 heard
   - prettier 🖐 used
   - MDN 🖐 used
+  - TC39
