@@ -59,7 +59,7 @@
   - Private class fields: 🖐️ used
   - Private class methods: 🖐️ used
 - Statements
-  - if: 🖐️ used
+  - `if`: 🖐️ used
   - while: 🖐️ used
   - do..while: 🖐️ used
   - for: 🖐️ used
