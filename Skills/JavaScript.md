@@ -60,29 +60,35 @@
   - Private class methods: 🖐️ used
 - Statements
   - `if`: 🖐️ used
-  - while: 🖐️ used
-  - do..while: 🖐️ used
-  - for: 🖐️ used
-  - for..in: 🖐️ used
-  - for..of: 🖐️ used
-  - for await: 👂 heard
-  - throw: 🖐️ used
-  - break: 🖐️ used
-  - continue: 🖐️ used
-  - import: 🖐️ used
-  - export: 🖐️ used
-  - label: 👂 heard
-  - try..catch: 🖐️ used
-  - switch: 🖐️ used
-  - class: 🖐️ used
-  - new Error: 🖐️ used
-  - with: 👂 heard
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
+  - `for await`: 👂 heard
+  - `throw`: 🖐️ used
+  - `break`: 🖐️ used
+  - `continue`: 🖐️ used
+  - `import`: 🖐️ used
+  - `export`: 🖐️ used
+  - `label`: 👂 heard
+  - `try..catch`: 🖐️ used
+  - `switch`: 🖐️ used
+  - `class`: 🖐️ used
+  - `extends`
+  - `with`: 👂 heard
+  - `new`
 - Functions
-  - function declaration: 🖐️ used
-  - function expression: 🖐️ used
-  - return: 🖐️ used
-  - default parameters: 🖐️ used
-  - functional object: 🖐️ used
+  - Arrow function: 🖐️ used
+  - Async function: 🖐️ used
+  - Function declaration: 🖐️ used
+  - Function expression: 🖐️ used
+  - Default parameters: 🖐️ used
+  - Functional object: 🖐️ used
+  - `Function.prototype.call`: 👂 heard
+  - `Function.prototype.bind`: 👂 heard
+  - `Function.prototype.apply`: 👂 heard
+  - `return`: 🖐️ used 
 - Data structures
   - `Array`: 🖐️ used
   - `Map`: 🖐️ used
@@ -113,3 +119,4 @@
   - npm: 🖐️ used
   - prettier: 🖐️ used
   - MDN: 🖐️ used
+  - TC39
