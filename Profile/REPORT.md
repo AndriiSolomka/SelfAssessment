@@ -71,7 +71,6 @@
 | Optional chaining | 🤷 unknown | ⟶  | 👂 heard |
 | IIFE | 🤷 unknown | ⟶  | 👂 heard |
 | Async IIFE | 🤷 unknown | ⟶  | 👂 heard |
-| `if` | 🤷 unknown | ⟶  | 🖐️ used |
 | `while` | 🤷 unknown | ⟶  | 🖐️ used |
 | `do..while` | 🤷 unknown | ⟶  | 🎓 known |
 | `for` | 🤷 unknown | ⟶  | 🖐️ used |
@@ -98,7 +97,7 @@
 | `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
 
-Total: you have `42` of `72` skills, `30` to be upgraded, and `13` above needed
+Total: you have `43` of `72` skills, `29` to be upgraded, and `13` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -115,7 +114,6 @@ Total: you have `42` of `72` skills, `30` to be upgraded, and `13` above needed
 | Sealing properties | 👂 heard | ⟶  | 🎓 known |
 | Freezing properties | 👂 heard | ⟶  | 🎓 known |
 | Computed properties | 👂 heard | ⟶  | 🎓 known |
-| `if` | 🤷 unknown | ⟶  | 🖐️ used |
 | `while` | 🤷 unknown | ⟶  | 🖐️ used |
 | `do..while` | 🤷 unknown | ⟶  | 🖐️ used |
 | `for` | 🤷 unknown | ⟶  | 🖐️ used |
@@ -150,7 +148,7 @@ Total: you have `42` of `72` skills, `30` to be upgraded, and `13` above needed
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
 | V8 | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `51` of `98` skills, `47` to be upgraded, and `12` above needed
+Total: you have `52` of `98` skills, `46` to be upgraded, and `12` above needed
 
 ## [Async](/Skills/Async.md)
 
