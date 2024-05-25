@@ -5,7 +5,7 @@
   - `Function`: 🖐️ used
   - `Boolean`: 🖐️ used
   - `Number`: 🖐️ used
-  - `BigInt`: 🎓 known
+  - `BigInt`: 🖐️ used
   - `String`: 🖐️ used
   - `Symbol`: 🖐️ used
   - `Infinity`: 🖐️ used
