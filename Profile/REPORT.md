@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-240&nbsp;/&nbsp;443&nbsp;/&nbsp;724-009933?style=flat-square)](https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-244&nbsp;/&nbsp;450&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-240&nbsp;/&nbsp;443&nbsp;/&nbsp;724-009933?style=flat-square)](https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-244&nbsp;/&nbsp;450&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-240&nbsp;/&nbsp;443&nbsp;/&nbsp;724-009933?style=flat-square"></a>
+<a href="https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-244&nbsp;/&nbsp;450&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -28,11 +28,11 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `2` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Language | `52` | `57` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Statements | `18` | `18` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `5` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Statements | `17` | `19` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `10` | `10` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `7` | `8` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `7` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `5` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `5` | `6` |
 | [Async](/Skills/Async.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `0` | `20` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `2` | `18` |
@@ -71,33 +71,14 @@
 | Optional chaining | 🤷 unknown | ⟶  | 👂 heard |
 | IIFE | 🤷 unknown | ⟶  | 👂 heard |
 | Async IIFE | 🤷 unknown | ⟶  | 👂 heard |
-| `while` | 🤷 unknown | ⟶  | 🖐️ used |
-| `do..while` | 🤷 unknown | ⟶  | 🎓 known |
-| `for` | 🤷 unknown | ⟶  | 🖐️ used |
-| `for..of` | 🤷 unknown | ⟶  | 🖐️ used |
-| `for await` | 🤷 unknown | ⟶  | 👂 heard |
-| `throw` | 🤷 unknown | ⟶  | 🖐️ used |
-| `break` | 🤷 unknown | ⟶  | 🎓 known |
-| `continue` | 🤷 unknown | ⟶  | 🎓 known |
-| `import` | 🤷 unknown | ⟶  | 🎓 known |
-| `export` | 🤷 unknown | ⟶  | 🎓 known |
-| `try..catch` | 🤷 unknown | ⟶  | 🎓 known |
-| `class` | 🤷 unknown | ⟶  | 🖐️ used |
 | `extends` | 🤷 unknown | ⟶  | 🖐️ used |
 | `new` | 🤷 unknown | ⟶  | 🖐️ used |
-| Arrow function | 🤷 unknown | ⟶  | 🖐️ used |
-| Async function | 🤷 unknown | ⟶  | 🎓 known |
-| Function declaration | 🤷 unknown | ⟶  | 🖐️ used |
-| Function expression | 🤷 unknown | ⟶  | 🖐️ used |
-| Default parameters | 🤷 unknown | ⟶  | 🖐️ used |
-| Functional object | 🤷 unknown | ⟶  | 👂 heard |
-| `return` | 🤷 unknown | ⟶  | 🖐️ used |
 | Mixins | 🤷 unknown | ⟶  | 🎓 known |
 | `Proxy` | 🤷 unknown | ⟶  | 🎓 known |
 | `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
 
-Total: you have `43` of `72` skills, `29` to be upgraded, and `13` above needed
+Total: you have `62` of `72` skills, `10` to be upgraded, and `21` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -114,28 +95,9 @@ Total: you have `43` of `72` skills, `29` to be upgraded, and `13` above needed
 | Sealing properties | 👂 heard | ⟶  | 🎓 known |
 | Freezing properties | 👂 heard | ⟶  | 🎓 known |
 | Computed properties | 👂 heard | ⟶  | 🎓 known |
-| `while` | 🤷 unknown | ⟶  | 🖐️ used |
-| `do..while` | 🤷 unknown | ⟶  | 🖐️ used |
-| `for` | 🤷 unknown | ⟶  | 🖐️ used |
-| `for..in` | 🤷 unknown | ⟶  | 🎓 known |
-| `for..of` | 🤷 unknown | ⟶  | 🖐️ used |
-| `for await` | 🤷 unknown | ⟶  | 🖐️ used |
-| `throw` | 🤷 unknown | ⟶  | 🖐️ used |
-| `break` | 🤷 unknown | ⟶  | 🖐️ used |
-| `continue` | 🤷 unknown | ⟶  | 🖐️ used |
-| `import` | 🤷 unknown | ⟶  | 🖐️ used |
-| `export` | 🤷 unknown | ⟶  | 🖐️ used |
-| `try..catch` | 🤷 unknown | ⟶  | 🖐️ used |
-| `class` | 🤷 unknown | ⟶  | 🖐️ used |
+| `for await` | 👂 heard | ⟶  | 🖐️ used |
 | `extends` | 🤷 unknown | ⟶  | 🖐️ used |
 | `new` | 🤷 unknown | ⟶  | 🖐️ used |
-| Arrow function | 🤷 unknown | ⟶  | 🖐️ used |
-| Async function | 🤷 unknown | ⟶  | 🖐️ used |
-| Function declaration | 🤷 unknown | ⟶  | 🖐️ used |
-| Function expression | 🤷 unknown | ⟶  | 🖐️ used |
-| Default parameters | 🤷 unknown | ⟶  | 🖐️ used |
-| Functional object | 🤷 unknown | ⟶  | 👂 heard |
-| `return` | 🤷 unknown | ⟶  | 🖐️ used |
 | `WeakMap` | 👂 heard | ⟶  | 🎓 known |
 | `WeakSet` | 👂 heard | ⟶  | 🎓 known |
 | Typed arrays | 👂 heard | ⟶  | 🎓 known |
@@ -148,7 +110,7 @@ Total: you have `43` of `72` skills, `29` to be upgraded, and `13` above needed
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
 | V8 | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `52` of `98` skills, `46` to be upgraded, and `12` above needed
+Total: you have `71` of `98` skills, `27` to be upgraded, and `14` above needed
 
 ## [Async](/Skills/Async.md)
 

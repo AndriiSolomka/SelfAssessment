@@ -88,7 +88,7 @@
   - `Function.prototype.call`: 👂 heard
   - `Function.prototype.bind`: 👂 heard
   - `Function.prototype.apply`: 👂 heard
-  - `return`: 🖐️ used 
+  - `return`: 🖐️ used
 - Data structures
   - `Array`: 🖐️ used
   - `Map`: 🖐️ used
