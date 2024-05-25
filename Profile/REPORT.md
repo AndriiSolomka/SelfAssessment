@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-244&nbsp;/&nbsp;450&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-245&nbsp;/&nbsp;450&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-244&nbsp;/&nbsp;450&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-245&nbsp;/&nbsp;450&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-244&nbsp;/&nbsp;450&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-245&nbsp;/&nbsp;450&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -28,7 +28,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `2` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Language | `52` | `57` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Statements | `17` | `19` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Statements | `18` | `19` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `10` | `10` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `7` | `8` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `7` | `14` |
@@ -72,13 +72,12 @@
 | IIFE | 🤷 unknown | ⟶  | 👂 heard |
 | Async IIFE | 🤷 unknown | ⟶  | 👂 heard |
 | `extends` | 🤷 unknown | ⟶  | 🖐️ used |
-| `new` | 🤷 unknown | ⟶  | 🖐️ used |
 | Mixins | 🤷 unknown | ⟶  | 🎓 known |
 | `Proxy` | 🤷 unknown | ⟶  | 🎓 known |
 | `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
 
-Total: you have `62` of `72` skills, `10` to be upgraded, and `21` above needed
+Total: you have `63` of `72` skills, `9` to be upgraded, and `21` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -97,7 +96,6 @@ Total: you have `62` of `72` skills, `10` to be upgraded, and `21` above needed
 | Computed properties | 👂 heard | ⟶  | 🎓 known |
 | `for await` | 👂 heard | ⟶  | 🖐️ used |
 | `extends` | 🤷 unknown | ⟶  | 🖐️ used |
-| `new` | 🤷 unknown | ⟶  | 🖐️ used |
 | `WeakMap` | 👂 heard | ⟶  | 🎓 known |
 | `WeakSet` | 👂 heard | ⟶  | 🎓 known |
 | Typed arrays | 👂 heard | ⟶  | 🎓 known |
@@ -110,7 +108,7 @@ Total: you have `62` of `72` skills, `10` to be upgraded, and `21` above needed
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
 | V8 | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `71` of `98` skills, `27` to be upgraded, and `14` above needed
+Total: you have `72` of `98` skills, `26` to be upgraded, and `14` above needed
 
 ## [Async](/Skills/Async.md)
 

@@ -77,7 +77,7 @@
   - `class`: 🖐️ used
   - `extends`
   - `with`: 👂 heard
-  - `new` 🖐️ used
+  - `new`: 🖐️ used
 - Functions
   - Arrow function: 🖐️ used
   - Async function: 🖐️ used
