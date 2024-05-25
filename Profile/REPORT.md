@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-228&nbsp;/&nbsp;434&nbsp;/&nbsp;724-009933?style=flat-square)](https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-240&nbsp;/&nbsp;443&nbsp;/&nbsp;724-009933?style=flat-square)](https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-228&nbsp;/&nbsp;434&nbsp;/&nbsp;724-009933?style=flat-square)](https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-240&nbsp;/&nbsp;443&nbsp;/&nbsp;724-009933?style=flat-square)](https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-228&nbsp;/&nbsp;434&nbsp;/&nbsp;724-009933?style=flat-square"></a>
+<a href="https://github.com/AndriiSolomka/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-240&nbsp;/&nbsp;443&nbsp;/&nbsp;724-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -27,11 +27,11 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `2` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `2` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Language | `48` | `57` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Language | `52` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `18` | `18` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `5` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `7` | `8` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `6` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `7` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `5` | `5` |
 | [Async](/Skills/Async.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `0` | `20` |
@@ -41,8 +41,8 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; JavaScript & Node.js specific | `2` | `17` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Techniques | `4` | `10` |
 | [NodeJS](/Skills/NodeJS.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Internals and concepts | `0` | `9` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Modularity, layers and dependencies | `1` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Internals and concepts | `3` | `9` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Modularity, layers and dependencies | `5` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Environment | `0` | `6` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Internal API | `0` | `26` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Network | `9` | `28` |
@@ -71,7 +71,6 @@
 | Optional chaining | 🤷 unknown | ⟶  | 👂 heard |
 | IIFE | 🤷 unknown | ⟶  | 👂 heard |
 | Async IIFE | 🤷 unknown | ⟶  | 👂 heard |
-| `global` | 🤷 unknown | ⟶  | 🎓 known |
 | `if` | 🤷 unknown | ⟶  | 🖐️ used |
 | `while` | 🤷 unknown | ⟶  | 🖐️ used |
 | `do..while` | 🤷 unknown | ⟶  | 🎓 known |
@@ -95,12 +94,11 @@
 | Functional object | 🤷 unknown | ⟶  | 👂 heard |
 | `return` | 🤷 unknown | ⟶  | 🖐️ used |
 | Mixins | 🤷 unknown | ⟶  | 🎓 known |
-| `Object.assign` | 👂 heard | ⟶  | 🎓 known |
 | `Proxy` | 🤷 unknown | ⟶  | 🎓 known |
 | `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
 
-Total: you have `40` of `72` skills, `32` to be upgraded, and `11` above needed
+Total: you have `42` of `72` skills, `30` to be upgraded, and `13` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -111,13 +109,12 @@ Total: you have `40` of `72` skills, `32` to be upgraded, and `11` above needed
 | Chaining | 🤷 unknown | ⟶  | 🖐️ used |
 | IIFE | 🤷 unknown | ⟶  | 🖐️ used |
 | Async IIFE | 🤷 unknown | ⟶  | 🖐️ used |
-| `global` | 🤷 unknown | ⟶  | 🖐️ used |
 | Getters and setters | 👂 heard | ⟶  | 🖐️ used |
 | `yield` | 👂 heard | ⟶  | 🖐️ used |
 | Property descriptors | 🤷 unknown | ⟶  | 🎓 known |
-| Sealing properties | 🤷 unknown | ⟶  | 🎓 known |
-| Freezing properties | 🤷 unknown | ⟶  | 🎓 known |
-| Computed properties | 🤷 unknown | ⟶  | 🎓 known |
+| Sealing properties | 👂 heard | ⟶  | 🎓 known |
+| Freezing properties | 👂 heard | ⟶  | 🎓 known |
+| Computed properties | 👂 heard | ⟶  | 🎓 known |
 | `if` | 🤷 unknown | ⟶  | 🖐️ used |
 | `while` | 🤷 unknown | ⟶  | 🖐️ used |
 | `do..while` | 🤷 unknown | ⟶  | 🖐️ used |
@@ -145,9 +142,7 @@ Total: you have `40` of `72` skills, `32` to be upgraded, and `11` above needed
 | `WeakSet` | 👂 heard | ⟶  | 🎓 known |
 | Typed arrays | 👂 heard | ⟶  | 🎓 known |
 | Mixins | 🤷 unknown | ⟶  | 👂 heard |
-| `Object.assign` | 👂 heard | ⟶  | 🎓 known |
 | `Proxy` | 🤷 unknown | ⟶  | 🎓 known |
-| `RegExp` | 🤷 unknown | ⟶  | 🎓 known |
 | `Date` | 🤷 unknown | ⟶  | 🎓 known |
 | `Reflect` | 🤷 unknown | ⟶  | 🎓 known |
 | `Atomics` | 🤷 unknown | ⟶  | 👂 heard |
@@ -155,7 +150,7 @@ Total: you have `40` of `72` skills, `32` to be upgraded, and `11` above needed
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
 | V8 | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `48` of `98` skills, `50` to be upgraded, and `10` above needed
+Total: you have `51` of `98` skills, `47` to be upgraded, and `12` above needed
 
 ## [Async](/Skills/Async.md)
 
@@ -264,29 +259,29 @@ Total: you have `0` of `75` skills, `75` to be upgraded, and `0` above needed
 | API and domain logic developer | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `7` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `11` above needed
 
 | Enterprise applications | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `7` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `11` above needed
 
 | Real-Time, gamedev, messaging | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `8` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `13` above needed
 
 | Web and Frontend | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `4` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `8` above needed
 
 | Fullstack development | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `7` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `11` above needed
 
 | Platform/system development | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `8` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `15` above needed

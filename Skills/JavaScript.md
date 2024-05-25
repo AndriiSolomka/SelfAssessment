@@ -26,7 +26,7 @@
   - Optional chaining
   - IIFE
   - Async IIFE
-  - `global` 🖐️ used
+  - `global`: 🖐️ used
   - `globalThis`: 🖐️ used
   - `window`: 🖐️ used
   - Getters and setters: 👂 heard
@@ -51,9 +51,9 @@
   - `Number.parseInt`: 🖐️ used
   - `Number.parseFloat`: 🖐️ used
   - Property descriptors
-  - Sealing properties 👂 heard  
-  - Freezing properties 👂 heard
-  - Computed properties 👂 heard
+  - Sealing properties: 👂 heard
+  - Freezing properties: 👂 heard
+  - Computed properties: 👂 heard
   - Instance class fields: 🖐️ used
   - Static class fields: 🖐️ used
   - Private class fields: 🖐️ used
@@ -94,7 +94,7 @@
   - `Object.assign`: 🖐️ used
 - Standard classes and namespaces
   - `Proxy`
-  - `RegExp` 🖐️ used
+  - `RegExp`: 🖐️ used
   - `Date`
   - `Math`: 🖐️ used
   - `Reflect`

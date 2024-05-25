@@ -1,24 +1,24 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js 👂 heard
+  - Strong and weak sides of node.js: 👂 heard
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
   - Event loop phases
-  - Event loop microtasks and macrotasks 👂 heard
-  - Garbage collection 👂 heard
+  - Event loop microtasks and macrotasks: 👂 heard
+  - Garbage collection: 👂 heard
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules 🖐️ used
-  - ECMAScript modules 🖐️ used
-  - Module `node:module` 🖐️ used
+  - CommonJS modules: 🖐️ used
+  - ECMAScript modules: 🖐️ used
+  - Module `node:module`: 🖐️ used
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules` 🖐️ used
-  - Files `package.json`, `package-lock.json`  🖐️ used
+  - Dependencies: `npm`, `node_modules`: 🖐️ used
+  - Files `package.json`, `package-lock.json`: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -65,7 +65,7 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API  🖐️ used
+  - Fetch API: 🖐️ used
   - IncomingMessage
   - HTTP(S): 🖐️ used
   - TCP/SSL: 👂 heard
@@ -110,10 +110,10 @@
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error`  🖐️ used
+  - `Error`: 🖐️ used
   - `error.cause`
   - `error.code`
-  - `error.message`  🖐️ used
+  - `error.message`: 🖐️ used
   - `error.stack`
   - `Error.captureStackTrace`
   - How to avoid mixins
