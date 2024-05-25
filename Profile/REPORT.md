@@ -81,7 +81,6 @@ Total: you have `63` of `72` skills, `9` to be upgraded, and `21` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| `BigInt` | 🎓 known | ⟶  | 🖐️ used |
 | Generators | 👂 heard | ⟶  | 🖐️ used |
 | Async generator | 👂 heard | ⟶  | 🖐️ used |
 | Async iterator | 👂 heard | ⟶  | 🖐️ used |
@@ -108,7 +107,7 @@ Total: you have `63` of `72` skills, `9` to be upgraded, and `21` above needed
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
 | V8 | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `72` of `98` skills, `26` to be upgraded, and `14` above needed
+Total: you have `73` of `98` skills, `25` to be upgraded, and `14` above needed
 
 ## [Async](/Skills/Async.md)
 
