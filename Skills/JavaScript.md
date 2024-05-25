@@ -26,12 +26,12 @@
   - Optional chaining
   - IIFE
   - Async IIFE
-  - `global`
+  - `global` 🖐️ used
   - `globalThis`: 🖐️ used
   - `window`: 🖐️ used
   - Getters and setters: 👂 heard
-  - `__proto__`: 👂 heard
-  - `prototype`: 👂 heard
+  - `__proto__`: 🖐️ used
+  - `prototype`: 🖐️ used
   - Equality operators: 🖐️ used
   - Logical operators: 🖐️ used
   - Logical Assignment: 🖐️ used
@@ -51,9 +51,9 @@
   - `Number.parseInt`: 🖐️ used
   - `Number.parseFloat`: 🖐️ used
   - Property descriptors
-  - Sealing properties
-  - Freezing properties
-  - Computed properties
+  - Sealing properties 👂 heard  
+  - Freezing properties 👂 heard
+  - Computed properties 👂 heard
   - Instance class fields: 🖐️ used
   - Static class fields: 🖐️ used
   - Private class fields: 🖐️ used
@@ -91,10 +91,10 @@
   - `WeakSet`: 👂 heard
   - Typed arrays: 👂 heard
   - Mixins
-  - `Object.assign`: 👂 heard
+  - `Object.assign`: 🖐️ used
 - Standard classes and namespaces
   - `Proxy`
-  - `RegExp`
+  - `RegExp` 🖐️ used
   - `Date`
   - `Math`: 🖐️ used
   - `Reflect`
